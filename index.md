@@ -3,30 +3,26 @@ Hello, My name is Jing Zhou （周璟）. My research direction is natural langu
 
 
 ## Education
-2018 - Now PHD, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
-
-Advisor: Jian Li and Zhilin Yang
-
+2018 - Now PHD, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University  
+Advisor: Jian Li and Zhilin Yang  
 Major Score/GPA: 94.20/3.92, TA for _National Language Processing_ and _Algorithm Design_
 
-2014 - 2018 Undergraduate, Computer Science and Technology, Sichuan University 
-
-Supported by _the Pilot Project for Fostering Top-Notch Students in Basic Sciences_
-
+2014 - 2018 Undergraduate, Computer Science and Technology, Sichuan University  
+Supported by _the Pilot Project for Fostering Top-Notch Students in Basic Sciences_  
 Major Score/GPA: 94.17/3.89
 
 ## Publications
-**FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (ACL 2022, main conference)**
+**FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (ACL 2022, main conference)**  
 Jing Zhou*, Yanan Zheng*, Jie Tang, Jian Li, Zhilin Yang (*: equal contribution)
 
-**FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding (ACL 2022, main conference)**
+**FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding (ACL 2022, main conference)**  
 Yanan Zheng*, Jing Zhou*, Yujie Qian, Ming Ding, Chonghua Liao, Jian Li, Ruslan Salakhutdinov, Jie Tang, Sebastian
 Ruder, Zhilin Yang (*: equal contribution)
 
-**Not All Tasks Are Born Equal: Understanding Ze (submitted to EMNLP)**
+**Not All Tasks Are Born Equal: Understanding Ze (submitted to EMNLP)**  
 Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang (*: equal contribution)
 
-**A Universal Discriminator for Zero-Shot Generalization (ACL 2023, main conference)**
+**A Universal Discriminator for Zero-Shot Generalization (ACL 2023, main conference)**  
 Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, Zhilin Yang
 
 ## Honors and Awards
