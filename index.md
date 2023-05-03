@@ -1,5 +1,5 @@
 ## Introduction
-Hello, My name is Jing Zhou （周璟）. My research direction is natural language processing (NLP). Most of my previous works are based on few-shot learning, zero-shot learning and pre-trained language models. I like to explore from the perspective of data distribution. 
+Hello, My name is Jing Zhou （周璟）. My research direction is natural language processing (NLP). Most of my previous works are based on few-shot learning, zero-shot learning and pretrained language models. I like to explore from the perspective of data distribution. 
 
 
 ## Education
