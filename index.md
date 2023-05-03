@@ -12,17 +12,17 @@ Major Score/GPA: 94.17/3.89
 
 ## Publications
 **FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning (ACL 2022, main conference)**  
-Jing Zhou*, Yanan Zheng*, Jie Tang, Jian Li, Zhilin Yang (*: equal contribution)
+**Jing Zhou\***, Yanan Zheng\*, Jie Tang, Jian Li, Zhilin Yang (*: equal contribution)
 
 **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding (ACL 2022, main conference)**  
-Yanan Zheng*, Jing Zhou*, Yujie Qian, Ming Ding, Chonghua Liao, Jian Li, Ruslan Salakhutdinov, Jie Tang, Sebastian
+Yanan Zheng\*, **Jing Zhou\***, Yujie Qian, Ming Ding, Chonghua Liao, Jian Li, Ruslan Salakhutdinov, Jie Tang, Sebastian
 Ruder, Zhilin Yang (*: equal contribution)
 
 **Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization (ICLR 2023, spotlight)**  
-Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang 
+**Jing Zhou**, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang 
 
 **A Universal Discriminator for Zero-Shot Generalization (ACL 2023, main conference)**  
-Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, Zhilin Yang
+Haike Xu, Zongyu Lin, **Jing Zhou**, Yanan Zheng, Zhilin Yang
 
 ## Honors and Awards
 2014-2015、2015-2016、2016-2017 &nbsp;&nbsp;&nbsp;&nbsp; National scholarship of China
