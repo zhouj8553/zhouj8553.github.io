@@ -26,10 +26,10 @@ Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang (*: equal contribution)
 Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, Zhilin Yang
 
 ## Honors and Awards
-2014-2015、2015-2016、2016-2017 National scholarship of China
+2014-2015、2015-2016、2016-2017 &nbsp;&nbsp;&nbsp;&nbsp; National scholarship of China
 
-2016.12 Bronze Medal in the ACM/ICPC Asia Regional Contest China-Final 2016
+2016.12 &nbsp;&nbsp;&nbsp;&nbsp; Bronze Medal in the ACM/ICPC Asia Regional Contest China-Final 2016
 
-2016.10 Bronze Medal in the ACM/ICPC Asia Regional Contest Dalian Site 2016
+2016.10 &nbsp;&nbsp;&nbsp;&nbsp; Bronze Medal in the ACM/ICPC Asia Regional Contest Dalian Site 2016
 
-2013.10 First Price in the National High School Mathematics Competition (Jiangsu Division)
+2013.10 &nbsp;&nbsp;&nbsp;&nbsp; First Price in the National High School Mathematics Competition (Jiangsu Division)
