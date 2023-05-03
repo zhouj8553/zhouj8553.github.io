@@ -19,7 +19,7 @@ Jing Zhou*, Yanan Zheng*, Jie Tang, Jian Li, Zhilin Yang (*: equal contribution)
 Yanan Zheng*, Jing Zhou*, Yujie Qian, Ming Ding, Chonghua Liao, Jian Li, Ruslan Salakhutdinov, Jie Tang, Sebastian
 Ruder, Zhilin Yang (*: equal contribution)
 
-**Not All Tasks Are Born Equal: Understanding Ze (submitted to EMNLP)**  
+**Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization (ICLR 2023, spotlight)**  
 Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang (*: equal contribution)
 
 **A Universal Discriminator for Zero-Shot Generalization (ACL 2023, main conference)**  
