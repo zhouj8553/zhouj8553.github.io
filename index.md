@@ -4,7 +4,7 @@ Hello, my name is Jing Zhou （周璟）. My research direction is Natural Langu
 ## Education
 2018 - Now &nbsp;&nbsp;&nbsp;&nbsp;PHD, Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**                   
 Advisor: Jian Li and Zhilin Yang  
-Major Score/GPA: 94.20/3.92, TA for _National Language Processing_ and _Algorithm Design_
+Major Score/GPA: 94.20/3.92, TA for _Natural Language Processing_ and _Algorithm Design_
 
 2014 - 2018 &nbsp;&nbsp;&nbsp;&nbsp;   Undergraduate, Computer Science and Technology, **Sichuan University**                                      
 Supported by _the Pilot Project for Fostering Top-Notch Students in Basic Sciences_  
