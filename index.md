@@ -31,4 +31,4 @@ Haike Xu, Zongyu Lin, **Jing Zhou**, Yanan Zheng, Zhilin Yang
 
 2016.10 &nbsp;&nbsp;&nbsp;&nbsp; Bronze Medal in the ACM/ICPC Asia Regional Contest Dalian Site 2016
 
-2013.10 &nbsp;&nbsp;&nbsp;&nbsp; First Price in the National High School Mathematics Competition (Jiangsu Division)
+2013.10 &nbsp;&nbsp;&nbsp;&nbsp; First Price in the National High School Mathematics League (Jiangsu Division)
