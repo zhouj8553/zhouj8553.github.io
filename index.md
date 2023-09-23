@@ -1,4 +1,4 @@
-## About
+## Introduction
 My name is Jing Zhou (周璟). I specialize in the field of Natural Language Processing (NLP), with a particular focus on Few-Shot/Zero-Shot Learning and the mathematical and reasoning abilities of Large Language Models (LLMs).
 
 ## Education
